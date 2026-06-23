@@ -1,0 +1,29 @@
+.homehead{
+    border: 1px solid  black;
+    width: 97%;
+    height: 500px;
+    margin: 1%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.eimg{
+    height: 350px;
+    width: 500px;
+    padding: 10px;
+}
+.productimg{
+    display: flex;
+    border: 1px solid black;
+    height: 100px;
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.img{
+    height: 110px;
+    width: 200px;
+}

@@ -18,9 +18,11 @@
 {
   display: flex;
   justify-content: space-evenly;
-  width: 300px;
+  width: 400px;
 }
 .navitem
 {
   text-decoration: none;
+  border: 1px solid black;
+  padding: 3px;
 }
